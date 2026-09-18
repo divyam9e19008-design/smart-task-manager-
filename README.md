@@ -102,9 +102,6 @@ java Main
 
 Divyam Sharma 
 
----
 
-## ⭐ Acknowledgment
 
-This project was developed as part of a BYOP (Bring Your Own Project) assignment to apply programming concepts to a real-world problem.
 
